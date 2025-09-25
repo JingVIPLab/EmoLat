@@ -1,7 +1,7 @@
-# EmoLat
+# EmoLat: Text-driven Image Sentiment Transfer via Emotion Latent Space
 
-EmoLat: Text-driven Image Sentiment Transfer via Emotion Latent Space
-
+## Introduction
+We proposes a novel emotional latent space (EmoLat), whose core function is to achieve fine-grained, text-driven image sentiment transfer by modeling cross-modal correlations between textual semantics and visual emotional features.
 
 ## Dataset
 
@@ -16,3 +16,12 @@ You can obtain the dataset through the following links:
 You can download the model weight files from these links:
 
 
+## Training
+
+1. Modify the Weight Path.
+
+2. Run the following code for training
+
+   ```bash
+   python train.py
+   ```
