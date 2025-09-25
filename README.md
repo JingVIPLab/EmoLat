@@ -11,9 +11,9 @@ The final Emospace Set contains 118,100 images, with each image having up to 14 
 
 You can obtain the dataset through the following links:
 
-## Model Weight
+## Pretrained weights
 
-You can download the model weight files from these links:
+You can download the pretrained weights files from these links:
 
 
 ## Training
