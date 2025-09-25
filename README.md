@@ -24,4 +24,6 @@ You can download the pretrained weights files from these links:
 
    ```bash
    python train.py
+   python train_emospace.py
+   python train_all.py
    ```
