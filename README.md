@@ -18,7 +18,7 @@ You can download the pretrained weights files from these links:
 
 ## Training
 
-1. Modify the Weight Path.
+1. Modify the pretrained weightst path.
 
 2. Run the following code for training
 
