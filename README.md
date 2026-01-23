@@ -14,9 +14,7 @@ The final Emospace Set contains 118,100 images, with each image having up to 14 
 
 ## Training
 
-1. Modify the pretrained weightst path.
-
-2. Run the following code for training
+1. Run the following code for training
 
    ```bash
    python train.py
