@@ -9,7 +9,7 @@ As an expanded and enhanced version of existing emotion datasets (e.g., EmoSet),
 
 The final Emospace Set contains 118,100 images, with each image having up to 14 object-attribute pairs. The entire dataset includes 1,953 unique attributes and 27,625 distinct object-attribute pairs, providing abundant semantic and emotional information.
 
-
+We have updated the JSON files: You can download the EmospaceSet.7z file from this link to obtain the JSON files, and you can download the images from this link: https://github.com/JingyuanYY/EmoSet
 
 
 ## Training
